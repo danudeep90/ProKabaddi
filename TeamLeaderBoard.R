@@ -11,7 +11,9 @@ source(helpfunc)
 
 #store urls & info in a list
 kabaddi_info <- list(Season1 = "http://www.prokabaddi.com/season1-leaderboard", 
-                     Season2 = "http://www.prokabaddi.com/leaderboard")
+                     Season2 = "http://www.prokabaddi.com/leaderboard",
+                     Season3 = "http://www.prokabaddi.com/season3-leaderboard",
+                     Season4 = "http://www.prokabaddi.com/season4-leaderboard")
 
 
 #Defintions of various metrics

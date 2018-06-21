@@ -12,7 +12,8 @@ source(helpfunc)
 #store urls & info in a list
 Season_Info<- list(Season1 = "http://www.prokabaddi.com/season1-results",
                    Season2 =  "http://www.prokabaddi.com/season2-results",
-                   Season3 = "http://www.prokabaddi.com/schedules-fixtures")
+                   Season3 = "http://www.prokabaddi.com/schedules-fixtures",
+                   Season4 = "http://www.prokabaddi.com/season4-results")
 
 
 #lapply over the list of URLs
